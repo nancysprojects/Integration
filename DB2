@@ -1,0 +1,6 @@
+DB2/AIX64
+
+Select substring('1234567890xxyyzzrrvvqqwwdf3', 27,22) FROM qualifiedName.TableName 
+
+DB2 catalog
+
