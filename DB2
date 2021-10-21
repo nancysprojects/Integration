@@ -4,3 +4,4 @@ Select substring('1234567890xxyyzzrrvvqqwwdf3', 27,22) FROM qualifiedName.TableN
 
 DB2 catalog
 
+Db2 commands https://www.ibm.com/docs/en/db2-for-zos/11?topic=db2-commands
